@@ -76,7 +76,7 @@ sns.barplot(df1, ax=ax1, color="#f6bc00")
 sns.barplot(df2, ax=ax2, color="#0000a0")
 sns.barplot(df3, ax=ax3, color="#000073")
 
-ax1.set_title("Correlation Between Winpercent and Sugar/ Price")
+ax1.set_title("Correlation Between Popularity and Sugar/ Price")
 ax2.set_title("Pricepercent in Total Dataset vs Top 10")
 ax3.set_title("Sugarpercent in Total Dataset vs Top 10")
 
